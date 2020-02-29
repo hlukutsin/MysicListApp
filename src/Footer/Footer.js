@@ -5,7 +5,6 @@ class Footer extends React.Component {
 
 
   render() {
-    // console.log(this.props.state)
     let state = this.props.state
     let list = null
 

@@ -165,7 +165,6 @@ class Table extends React.Component {
           paginationBtnClick={(key) => this.paginationBtnClick(key)}
           state={this.state} 
         />
-        {console.log(this.state)}
       </div>
     ) 
   }
